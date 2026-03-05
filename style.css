@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #57CAFC;
+  background-color: #3A8EE4;
   box-sizing: border-box;
 }
 
@@ -33,7 +33,7 @@ main {
   background-color: #B3E6FF;
   padding: 40px 30px;
   margin: -20px auto 20px;
-  border: 6px solid #3A8EE4;
+  border: 6px solid #EB78B8;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
   border-bottom-left-radius: 15px;

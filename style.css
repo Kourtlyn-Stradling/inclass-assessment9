@@ -20,7 +20,7 @@ main {
   margin: 0px auto;
   overflow: hidden;
   width: 100%;
-  height: auto;
+  height: 570px;
   /* border-radius: 15px; */  /*seeing if this will fix the weird border radius on my image */
 }
 

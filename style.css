@@ -19,6 +19,7 @@ main {
   display: block;
   margin: 0px auto;
   overflow: hidden;
+  width: 800px;
   /* border-radius: 15px; */  /*seeing if this will fix the weird border radius on my image */
 }
 
@@ -49,6 +50,7 @@ h1 {
   color: #3A8EE4;
   font-weight: 200;
   margin: 40px 10px;
+  padding: 40px 15px;
 }
 
 .speaker {

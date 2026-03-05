@@ -47,20 +47,20 @@ h1 {
 
 .quote {
   background-color: #B3E6FF;
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: #3A8EE4;
   font-weight: 200;
   margin: 40px 10px;
-  padding: 20px 15px;
+  /* padding: 20px 15px; */  /* seeing what happens if I take the padding out */
 }
 
 .speaker {
   background-color: #B3E6FF;
   text-transform: uppercase;
-  text-transform: italic;
+  font-style: italic;
   letter-spacing: 3px;
   font-weight: 700;
-  font-size: 1.5rem;
+  /* font-size: 1.5rem; */  /* seeing how I like the font size 16px */
   color: #EB78B8;
   margin: 10px;
 }

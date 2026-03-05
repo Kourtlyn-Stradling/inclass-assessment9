@@ -23,6 +23,7 @@ main {
 }
 
 .text {
+  width: 800px;
   background-color: #B3E6FF;
   padding: 40px 30px;
   margin: -20px 15px 20px;
@@ -47,15 +48,16 @@ h1 {
   font-size: 2.5rem;
   color: #3A8EE4;
   font-weight: 200;
-  margin: 10px;
+  margin: 40px 10px;
 }
 
 .speaker {
   background-color: #B3E6FF;
   text-transform: uppercase;
   text-transform: italic;
+  letter-spacing: 3px;
   font-weight: 700;
   font-size: 1.5rem;
-  color: #57CAFC;
+  color: #EB78B8;
   margin: 10px;
 }
